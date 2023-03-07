@@ -1,19 +1,14 @@
 <div  align="center">
   Hello! I'm Lucas Sarchis!
 Currently studying to switch carreer from a mechanical engineer to software developer.
-  <div align="center">
-    <hr>
-  <p>Entre em contato comigo:</p>
- </div>
+ <hr>
  <div align="center">
   <a href="mailto:lucas.sarchis@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://api.whatsapp.com/send?phone=5532985113268"><img height="30em" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/lucassarchis/"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://lucassarchis.com"><img height="30em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
- 
-  
  </div>
-  </div>
+  
   <hr>
 <div  align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassarchis&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
