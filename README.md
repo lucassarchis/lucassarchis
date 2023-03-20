@@ -11,8 +11,9 @@ Currently studying to switch carreer from a mechanical engineer to software deve
   
   <hr>
 <div  align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassarchis&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassarchis&layout=compact&langs_count=6&theme=material-palenight"/>
+  https://github-readme-stats-sigma-five.vercel.app/api
+ <img height="180em" src="https://github-readme-stats-sigma0five.vercel.app/api?username=lucassarchis&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucassarchis&layout=compact&langs_count=6&theme=material-palenight"/>
  </div>
 
 <div align="center">
