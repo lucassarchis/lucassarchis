@@ -1,6 +1,6 @@
 <div  align="center">
   Hello! I'm Lucas Sarchis!
- Searching for a internship in CS (Computer Science).
+ Looking for a internship in CS (Computer Science).
  Currently studying to switch carreer from a mechanical engineer to software developer.
  <hr>
  <div align="center">
