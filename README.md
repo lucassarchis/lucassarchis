@@ -19,10 +19,3 @@
 <div align="center">
    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=lucassarchis&theme=material-palenight&date_format=j%20M%5B%20Y%5D"/>
  </div>
- 
-<hr>
-<div align="center">
-  <img height="40em" src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vscode,bootstrap,git,mongodb,nodejs,stackoverflow"/>
-  </div>
-<hr>
-
