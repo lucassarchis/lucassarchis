@@ -1,6 +1,7 @@
 <div  align="center">
   Hello! I'm Lucas Sarchis!
-Currently studying to switch carreer from a mechanical engineer to software developer.
+ Searching for a internship in CS (Computer Science).
+ Currently studying to switch carreer from a mechanical engineer to software developer.
  <hr>
  <div align="center">
   <a href="mailto:lucas.sarchis@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
