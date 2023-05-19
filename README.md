@@ -13,7 +13,7 @@ Hello! I am a mechanical engineer with a strong passion for technology, and I am
 
 ## Projects
 
-You can find more details about these projects and others in my [portfolio](https://lucassarchis.com/).
+You can find details about my projects in my [portfolio](https://lucassarchis.com/).
 
 ## Github Stats
 
