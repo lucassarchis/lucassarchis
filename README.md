@@ -19,7 +19,6 @@ You can find details about my projects in my [portfolio](https://lucassarchis.co
 
 <div  align="center">
  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=lucassarchis&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucassarchis&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
 ## Objectives
