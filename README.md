@@ -2,18 +2,14 @@
 
 ## About Me
 
-Hello! Im a former mechanical engineer and now Java Fullstack Developer at Registrocom.com.
+Sofware Developer and Business Data Analyst at Cielo.
 
 ## Skills
 
 - **Mechanical Engineering:** I have a deep understanding of mechanical engineering concepts and practices, including structural analysis, fluid dynamics, thermodynamics, system design and project management.
 - **Programming:** Java, MySQL, JSF, JPA, Maven, JUnit, HTML, CSS and Angular.
 - **Web Development:** I am learning web application development, utilizing HTML, CSS, and JavaScript, as well as popular frameworks like React, Angular and Node.js.
-- **Data Analysis:** I have a strong desire to learn about data analysis and explore this realm with my engineering skills.
-
-## Projects
-
-You can find details about my projects in my [portfolio](https://lucassarchis.com/).
+- **Data Analysis:** Curently working at this field in Cielo as Business Data Analyst as the only analyst in my state (Minas Gerais).
 
 ## Github Stats
 
